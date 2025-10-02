@@ -76,7 +76,7 @@ export default class CustomHomepage extends Component {
             <a href="https://bygg.boihop.co/tag/%C3%B6ppet-f%C3%B6r-nya-medlemmar"></a>
             <img src="https://bygg.boihop.co/uploads/default/original/1X/f505404a0eaf8718bf52665c35112c9d703e3390.jpg" alt="" />
             <div class="card-details">
-              <div class="topic-title" aria-hidden="true">Projekt som söker boende</div>
+              <div class="topic-title" aria-hidden="true">Boenden öppna för nya medlemmar</div>
               <div class="topic-excerpt">
                 Är du intresserad av att gå med i en bygg- eller bogemenskap? Här ser du projekt som söker medlemmar.
               </div>
