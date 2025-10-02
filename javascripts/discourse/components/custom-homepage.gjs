@@ -73,7 +73,7 @@ export default class CustomHomepage extends Component {
           </div>
           
           <div class="special-links-card">
-            <a href="https://bygg.boihop.co/tag/hitta-medlemmar"></a>
+            <a href="https://bygg.boihop.co/tag/%C3%B6ppet-f%C3%B6r-nya-medlemmar"></a>
             <img src="https://bygg.boihop.co/uploads/default/original/1X/f505404a0eaf8718bf52665c35112c9d703e3390.jpg" alt="" />
             <div class="card-details">
               <div class="topic-title" aria-hidden="true">Projekt som söker boende</div>
